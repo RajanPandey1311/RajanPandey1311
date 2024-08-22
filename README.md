@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajanpandey1311" alt="rajanpandey1311" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack Project**
+- 🔭 I’m currently working on **Full Stack Project**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Next.js 14 Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://rajan-port-folio.vercel.app/](https://rajan-port-folio.vercel.app/)
 
