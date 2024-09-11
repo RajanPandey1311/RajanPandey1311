@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rajanpandeygiit31078379@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eXfAcvNmp-xqqD0djRLayh6IhW3Y-08H/view?usp=sharing](https://drive.google.com/file/d/1eXfAcvNmp-xqqD0djRLayh6IhW3Y-08H/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uswht8iJpPp0WCkZLvc_xcjhGIDRVM4f/view)
 
 - ⚡ Fun fact **I think I am a musician.**
 
