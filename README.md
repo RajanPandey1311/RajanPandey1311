@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project**
 
-- 🌱 I’m currently learning **Next.js 14 Full Stack**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://rajan-port-folio.vercel.app/](https://rajan-port-folio.vercel.app/)
 
